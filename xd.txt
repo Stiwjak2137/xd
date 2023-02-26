@@ -1,2 +1,3 @@
 
 wp.pl
+minecraft.net
